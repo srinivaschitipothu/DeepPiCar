@@ -1,26 +1,26 @@
 <annotation>
-	<folder>Kiwi</folder>
-	<filename>Kiwi (4).jpg</filename>
-	<path>C:\Users\DELL\Desktop\Thesis\fruits\Kiwi\Kiwi (4).jpg</path>
+	<folder>kiwi</folder>
+	<filename>kiwi (4).JPG</filename>
+	<path>C:\Users\DELL\Desktop\Thesis\F1\kiwi\kiwi (4).JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>100</width>
-		<height>100</height>
+		<width>4032</width>
+		<height>3024</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>KIiwi</name>
+		<name>kiwi</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>1</ymin>
-			<xmax>99</xmax>
-			<ymax>99</ymax>
+			<xmin>708</xmin>
+			<ymin>6</ymin>
+			<xmax>3641</xmax>
+			<ymax>2821</ymax>
 		</bndbox>
 	</object>
 </annotation>

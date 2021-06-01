@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kiwi</folder>
+	<filename>kiwi (19).JPG</filename>
+	<path>C:\Users\DELL\Desktop\Thesis\F1\kiwi\kiwi (19).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>40</ymin>
+			<xmax>3794</xmax>
+			<ymax>2835</ymax>
+		</bndbox>
+	</object>
+</annotation>

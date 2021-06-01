@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pomegranate</folder>
+	<filename>Pomegranate (7).JPG</filename>
+	<path>C:\Users\DELL\Desktop\Thesis\F1\Pomegranate\Pomegranate (7).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pomegranate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>192</ymin>
+			<xmax>3919</xmax>
+			<ymax>3024</ymax>
+		</bndbox>
+	</object>
+</annotation>
