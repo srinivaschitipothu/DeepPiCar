@@ -1,0 +1,26 @@
+<annotation>
+	<folder>orange</folder>
+	<filename>orange (8).JPG</filename>
+	<path>C:\Users\DELL\Desktop\Thesis\F1\orange\orange (8).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>6</ymin>
+			<xmax>4032</xmax>
+			<ymax>3012</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>apricots</folder>
+	<filename>apricots (1).JPG</filename>
+	<path>C:\Users\DELL\Desktop\Thesis\F1\apricots\apricots (1).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apricot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>21</ymin>
+			<xmax>3270</xmax>
+			<ymax>3011</ymax>
+		</bndbox>
+	</object>
+</annotation>

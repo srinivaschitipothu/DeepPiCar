@@ -1,0 +1,38 @@
+<annotation>
+	<folder>grape</folder>
+	<filename>grape (18).JPG</filename>
+	<path>C:\Users\DELL\Desktop\Thesis\F1\grape\grape (18).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>865</xmin>
+			<ymin>821</ymin>
+			<xmax>2794</xmax>
+			<ymax>2406</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2817</xmin>
+			<ymin>916</ymin>
+			<xmax>4032</xmax>
+			<ymax>2706</ymax>
+		</bndbox>
+	</object>
+</annotation>
